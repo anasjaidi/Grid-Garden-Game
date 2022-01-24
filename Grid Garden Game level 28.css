@@ -1,0 +1,4 @@
+#garden {
+    display: grid;
+    grid-template:calc(100% - 50px) / 1fr 4fr;
+}
